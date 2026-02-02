@@ -1,0 +1,15 @@
+{
+    "combatientes": {
+        "Roberto": "Con poderes",
+        "Felipe": "Sin poderes"
+    },
+    "armas": [
+        "Pistola",
+        "Espada"
+    ],
+    "salas": [
+        "Sala Ciudad",
+        "Sala Bosque",
+        "Sala Desierto"
+    ]
+}
