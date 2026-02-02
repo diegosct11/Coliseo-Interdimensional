@@ -1,5 +1,74 @@
 {
     "combates": {
-        
+        "aaa": {
+            "Patrocinador": "aaa",
+            "Fecha": "2026-02-02",
+            "Sala": "Sala Ciudad",
+            "Categor\u00eda": "Con Poderes",
+            "Combatiente_A": "Spiderman",
+            "Arma_A": "Ninguna",
+            "Combatiente_B": "Wolverine",
+            "Arma_B": "Ninguna"
+        },
+        "qqqq": {
+            "Patrocinador": "qqqq",
+            "Fecha": "2026-02-12",
+            "Sala": "Sala Bosque",
+            "Categor\u00eda": "Con Poderes",
+            "Combatiente_A": "Invencible",
+            "Arma_A": "Ninguna",
+            "Combatiente_B": "Capit\u00e1n Am\u00e9rica",
+            "Arma_B": "Ninguna"
+        },
+        "lololo": {
+            "Patrocinador": "lololo",
+            "Fecha": "2026-02-12",
+            "Sala": "Sala Ciudad",
+            "Categor\u00eda": "Con Poderes",
+            "Combatiente_A": "Spiderman",
+            "Arma_A": "Ninguna",
+            "Combatiente_B": "Deadpool",
+            "Arma_B": "Ninguna"
+        },
+        "kokoko": {
+            "Patrocinador": "kokoko",
+            "Fecha": "2026-02-12",
+            "Sala": "Sala Desierto",
+            "Categor\u00eda": "Con Poderes",
+            "Combatiente_A": "Wolverine",
+            "Arma_A": "Ninguna",
+            "Combatiente_B": "Hulk",
+            "Arma_B": "Ninguna"
+        },
+        "griu": {
+            "Patrocinador": "griu",
+            "Fecha": "2026-02-17",
+            "Sala": "Sala Ciudad",
+            "Categor\u00eda": "Sin Poderes",
+            "Combatiente_A": "Jhon Wick",
+            "Arma_A": "Pistola",
+            "Combatiente_B": "Bruce Lee",
+            "Arma_B": "Nunchakus"
+        },
+        "ui": {
+            "Patrocinador": "ui",
+            "Fecha": "2026-04-09",
+            "Sala": "Sala Desierto",
+            "Categor\u00eda": "Con Poderes",
+            "Combatiente_A": "Hulk",
+            "Arma_A": "Ninguna",
+            "Combatiente_B": "Invencible",
+            "Arma_B": "Ninguna"
+        },
+        "kiki": {
+            "Patrocinador": "kiki",
+            "Fecha": "2026-02-07",
+            "Sala": "Sala Bosque",
+            "Categor\u00eda": "Sin Poderes",
+            "Combatiente_A": "Chuck Norris",
+            "Arma_A": "Metralleta",
+            "Combatiente_B": "James Bone",
+            "Arma_B": "Hacha"
+        }
     }
 }

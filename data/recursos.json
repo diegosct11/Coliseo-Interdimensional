@@ -1,11 +1,37 @@
 {
     "combatientes": {
-        "Roberto": "Con poderes",
-        "Felipe": "Sin poderes"
+        "Spiderman": "Con Poderes",
+        "Batman": "Sin Poderes",
+        "Wolverine": "Con Poderes",
+        "Deadpool": "Con Poderes",
+        "Bruce Lee": "Sin Poderes",
+        "Chuck Norris": "Sin Poderes",
+        "Jhon Wick": "Sin Poderes",
+        "Kill Bill": "Sin Poderes",
+        "Cristiano Ronaldo": "Sin Poderes",
+        "James Bone": "Sin Poderes",
+        "Elpidio": "Sin Poderes",
+        "Invencible": "Con Poderes",
+        "Hulk": "Con Poderes",
+        "Aquiles": "Sin Poderes",
+        "Capit\u00e1n Am\u00e9rica": "Con Poderes",
+        "Indiana Jones": "Sin Poderes",
+        "Super Mario": "Sin Poderes"
     },
     "armas": [
         "Pistola",
-        "Espada"
+        "Espada",
+        "Metralleta",
+        "Katana",
+        "Bal\u00f3n",
+        "Machete",
+        "L\u00e1tigo",
+        "Nunchakus",
+        "Lanza",
+        "Escudo",
+        "Hacha",
+        "Arco",
+        "Martillo de guerra"
     ],
     "salas": [
         "Sala Ciudad",
