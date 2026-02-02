@@ -28,7 +28,7 @@ Planificar_Combate = st.Page(
 )
 Listado_de_Combates = st.Page(
     page="pages/Listado_de_Combates.py",
-    title="Combates programados",
+    title="Listado de Combates",
     icon=":material/info:"
 )
 Combatientes = st.Page(
@@ -41,7 +41,7 @@ Combatientes = st.Page(
 
 navegacion = st.navigation({
     "Información:": [Info_EL_Coliseo],
-    "Combates:":[Planificar_Combate, Listado_de_Combates],
+    "Contienda:":[Planificar_Combate, Listado_de_Combates],
     "Sumario:":[Combatientes]
     })
 

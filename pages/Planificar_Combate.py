@@ -176,7 +176,7 @@ if Fecha != st.session_state.fecha_anterior:
     armas_ocupadas = []
     
     for combate in st.session_state.combates_planificados.values():           # ~ Selecciona recursos de fechas iguales ~ #
-        print(combate["Categoría"])
+        
         if combate["Fecha"] == str(Fecha):
             salas_ocupadas.append(combate["Sala"])
             if combate["Categoría"] == "Con Poderes":

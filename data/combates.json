@@ -1,15 +1,5 @@
 {
     "combates": {
-        "aaa": {
-            "Patrocinador": "aaa",
-            "Fecha": "2026-02-02",
-            "Sala": "Sala Ciudad",
-            "Categor\u00eda": "Con Poderes",
-            "Combatiente_A": "Spiderman",
-            "Arma_A": "Ninguna",
-            "Combatiente_B": "Wolverine",
-            "Arma_B": "Ninguna"
-        },
         "qqqq": {
             "Patrocinador": "qqqq",
             "Fecha": "2026-02-12",
