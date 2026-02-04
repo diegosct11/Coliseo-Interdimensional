@@ -112,10 +112,6 @@ Coliseo-Interdimensional/
 4.  Sube tus cambios (`git push origin feature/NuevaFuncionalidad`).
 5.  Abre un Pull Request.
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
 ---
 
-**¡Que comiencen los juegos interdimensionales!** Si encuentras algún problema al ejecutar la aplicación o tienes ideas para nuevas funcionalidades, no dudes en contactarte con el equipo de desarrollo.
+**¡Que comiencen los juegos interdimensionales!** Si encuentras algún problema al ejecutar la aplicación o tienes ideas para nuevas funcionalidades, no dudes en contactarte con el desarrollador.
