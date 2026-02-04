@@ -1,12 +1,8 @@
 import json
 import os
 
-# --- #: Rutas de Base de Datos :# --- #
-
 RUTA_RECURSOS = "data/recursos.json"
 RUTA_COMBATES = "data/combates.json"
-
-# --- #: Función Guardar Combates :# --- #
 
 def guardar_combates(combates):           
     data = {
@@ -15,9 +11,7 @@ def guardar_combates(combates):
     with open(RUTA_COMBATES, "w") as f:
         json.dump(data, f, indent=4)
 
-# --- #: Función Cargar data :# --- #
-
-def cargar_combates():             # Cargar Combates #
+def cargar_combates():             
     if not os.path.exists(RUTA_COMBATES):
         return
     try:
@@ -28,7 +22,7 @@ def cargar_combates():             # Cargar Combates #
     except Exception as e:
         print(f'Error al cargar datos: {e}')
         
-def cargar_recursos():          # Cargar Inventario #
+def cargar_recursos():       
     if not os.path.exists(RUTA_RECURSOS):
         return
     try:
